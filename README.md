@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi, I'm Roberta 😃</h1>
+<h1 align="left">Hi, I'm Roberta 👋🏻</h1>
 
 - 📚 &nbsp;Junior web developer & Full time student 
 - ✋🏻 &nbsp;&nbsp;Looking for opportunities and collaboration in projects
