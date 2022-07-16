@@ -2,7 +2,6 @@
 <h1 align="left">Hi, I'm Roberta 👋🏻</h1>
 
 - 📚 &nbsp;Junior web developer 
-- ✋🏻 &nbsp;&nbsp;Looking for opportunities and collaboration in projects
 - 👩🏼‍💻 &nbsp;&nbsp;Passionate by the web development world and technologies
 - 🌱 &nbsp;Currently learning React and improving my skills in JavaScript, CSS and HTML
 - ☕️ &nbsp;Coffee lover
