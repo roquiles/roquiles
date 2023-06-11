@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm Roberta 👋🏻</h1>
 
-- 📚 &nbsp;Junior front-end developer 
+- 📚 &nbsp;Front-end developer 
 - 👩🏼‍💻 &nbsp;&nbsp;Passionate by the web development world and technologies
 - 🌱 &nbsp;Always seeking and sharing knowledge
 - ☕️ &nbsp;Coffee lover
@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=FFFFFF)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
