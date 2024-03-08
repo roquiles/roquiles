@@ -8,6 +8,16 @@
 
 <br><br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/roberta-quiles/">
+      <img src="https://img.shields.io/badge/-roberta--quiles-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <a/>
+  <a href="mailto:roberta_btg@hotmail.com">
+      <img src="https://img.shields.io/badge/-roberta__btg@hotmail.com-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/>
+  <a/>
+</div>
+
+
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -33,7 +43,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
-![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white)&nbsp;
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white)&nbsp;}
+
+
 
 <br><br>
 
