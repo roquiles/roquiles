@@ -2,9 +2,8 @@
 <h1 align="left">Hi, I'm Roberta 👋🏻</h1>
 
 - 📚 &nbsp;Front-end developer 
-- 👩🏼‍💻 &nbsp;&nbsp;Passionate by the web development world and technologies
+- 👩🏼‍💻 &nbsp;&nbsp;Passionate by the web development world and its technologies
 - 🌱 &nbsp;Always seeking and sharing knowledge
-- ☕️ &nbsp;Coffee lover
 
 <br><br>
 
