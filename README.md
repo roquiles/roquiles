@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi, I'm Roberta 👋🏻</h1>
+<h1 align="center">Hi, I'm Roberta 👋🏻</h1>
 
 - 📚 &nbsp;Front-end developer 
 - 👩🏼‍💻 &nbsp;&nbsp;Passionate by the web development world and its technologies
@@ -52,7 +52,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roquiles&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
