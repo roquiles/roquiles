@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Roberta 👋🏻</h1>
 
-- 📚 &nbsp;Software developer
+- 📚 &nbsp;Software engineer
 - 👩🏼‍💻 &nbsp;&nbsp;Passionate by the web development world and its technologies
 - 🌱 &nbsp;Always seeking and sharing knowledge
 
