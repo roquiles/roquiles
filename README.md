@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Roberta 👋🏻</h1>
+<h1 align="center">I'm Roberta 👋🏻</h1>
 
 <br><br>
 
@@ -12,7 +12,9 @@
   <a/>
 </div>
 
-<div align="center">
+## Tech Stack
+
+<div>
 
   <!-- 🖥️ Frontend -->
   <h3>🖥️ Frontend</h3>
